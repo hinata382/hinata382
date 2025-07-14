@@ -1,5 +1,4 @@
-<img src="https://github.com/hinata382.png" width="150"/>
-## 안녕하세요. 장현석 입니다. 👋
+<img src="https://github.com/hinata382.png" width="150"/>## 안녕하세요. 장현석 입니다. 👋
 
 <!--
 **hinata382/hinata382** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

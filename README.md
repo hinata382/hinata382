@@ -1,4 +1,8 @@
-<img src="https://github.com/hinata382.png" width="150"/>## 안녕하세요. 장현석 입니다. 👋
+<p align="center">
+  <img src="https://github.com/hinata382.png" width="120" />
+</p>
+
+<h3 align="center">안녕하세요. 1315 장현석 입니다 👋</h3>
 
 <!--
 **hinata382/hinata382** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

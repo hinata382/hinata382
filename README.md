@@ -1,3 +1,4 @@
+<img src="https://github.com/hinata382.png" width="150"/>
 ## 안녕하세요. 장현석 입니다. 👋
 
 <!--

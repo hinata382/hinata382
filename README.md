@@ -1,8 +1,15 @@
-<p align="center">
-  <img src="https://github.com/hinata382.png" width="120" />
-</p>
+<table>
+  <tr>
+    <td width="110">
+      <img src="https://github.com/hinata382.png" width="100" />
+    </td>
+    <td>
+      <h3>안녕하세요. 1315 장현석입니다 👋</h3>
+      <p>📫 e-mail: 25_58@bssm.hs.kr</p>
+    </td>
+  </tr>
+</table>
 
-<h3 align="center">안녕하세요. 1315 장현석 입니다 👋</h3>
 
 <!--
 **hinata382/hinata382** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
